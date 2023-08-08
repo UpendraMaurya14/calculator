@@ -35,6 +35,8 @@ body {
   /* height: 40px; */
 }
 .operation-display {
+  font-size: larger;
+  padding: 15px;
   grid-column: span 4;
   background-color: #98eecc;
 }
