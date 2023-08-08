@@ -44,3 +44,6 @@ body {
   grid-column: span 2;
   background-color: #d0f5be;
 }
+.operation{
+  font-size: larger;
+}
