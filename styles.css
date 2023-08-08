@@ -49,53 +49,5 @@ body {
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
-  body {
-    margin: 0;
-    padding: 0;
-    /* background-color: #fbffdc; */
-  }
-  .main-container {
-    display: flex;
-    border-style: solid;
-    height: 100vh;
-    width: 100%;
-    justify-content: center;
-    /* align-content: center; */
-  }
-  .container {
-    display: grid;
-    grid-template: repeat(6, 1fr) / repeat(4, 1fr);
-    align-self: center;
-    height: 50vh;
-    width: 40%;
-    background-color: #79E0EE;
-    border-style: solid;
-    border-color: #98eecc;
-    border-width: 5px;
-    border-radius: 1rem;
-    margin: 500px;
-    
-  }
-  .btn {
-    margin: 0;
-    padding: 0;
-    background-color: #d0f5be;
-    border-radius: 1rem;
-    margin: 5px;
-    border-style: none;
-    /* height: 40px; */
-  }
-  .operation-display {
-    font-size: larger;
-    padding: 15px;
-    grid-column: span 4;
-    background-color: #98eecc;
-  }
-  .ac {
-    grid-column: span 2;
-    background-color: #d0f5be;
-  }
-  .operation{
-    font-size: larger;
-  }
+  
 }
