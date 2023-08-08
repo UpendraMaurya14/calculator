@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 I made a calculator using Html Css Javascript you can check the demo at 
 https://upendramaurya14.github.io/calculator/
 if you have any suggestions please mention them on my twitter at
