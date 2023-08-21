@@ -17,9 +17,14 @@ body {
   font-size: larger;
   display: flex;
   justify-content: center;
+  align-items: center;
   font-family: 'Comic Neue', cursive;
   font-size: larger;
   color: bisque;
+  /* margin: 0; */
+  /* border-style: solid;
+  border-width: 500px;
+  border-color: black; */
 }
 .container {
   display: grid;
@@ -33,6 +38,8 @@ body {
   border-width: 5px;
   border-radius: 1rem;
   margin: 500px;
+  margin: 0;
+  padding: 0;
 }
 .btn {
   margin: 0;
